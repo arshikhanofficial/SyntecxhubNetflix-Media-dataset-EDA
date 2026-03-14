@@ -159,7 +159,3 @@ This exploratory analysis highlights how Netflix expanded its content library ra
 
 ---
 
-## Author
-
-**Najish Anjum**  
-B.Tech CSE (AI & ML)  
