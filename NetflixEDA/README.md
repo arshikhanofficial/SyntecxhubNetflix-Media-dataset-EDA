@@ -158,8 +158,3 @@ The project generates the following visualizations:
 This exploratory analysis highlights how Netflix expanded its content library rapidly in recent years and shows the dominance of **international and drama content categories**.
 
 ---
-
-## Author
-
-**Najish Anjum**  
-B.Tech CSE (AI & ML)  
